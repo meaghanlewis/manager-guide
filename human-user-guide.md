@@ -6,44 +6,58 @@ The goal of a human user guide is to make working together and collaboration wit
 
 - What are some honest, unfiltered things about you?
 
-  - I care deeply. I love to listen and observe before providing feedback.
-  - I always have a calm demeanor, although I might not always feel calm on the inside.
+  - I care deeply. I love to listen and observe before providing feedback and taking action.
   - I always try to be straightforward and appreciate when people are straightforward with me.
-
-My goal as a manager is to help my teammates grow and help our project succeed. I aim to continuously learn and improve, so that I can do my best, and help my teammates do their best too.
 
 - Tell us about your pet peeves. These are things that put you in a bad mood.
   - When people say they are going to do things but don't follow through.
-  - Disingenuity
+  - Disingenuity.
+  - Being asked the same question repeatedly.
 
 - What are your quirks?
-  - Im super introverted.
+  - Im introverted.
   - I'm a lefty.
   - I like to listen and process information before making a decision, but am decisive.
   - It's important for me to uplift the people around me and help them find their passion.
-Tell us about those traits that are uniquely yours. How do you like to make decisions? How do you react to conflict?
-
+  - I appreciate moments of conflict because I know that resolving that conflict will likely lead to a better understanding in the end.
+  
 - What are some things that people might misunderstand about you that you should clarify?
-Think of some labels people may apply to you. Tell us why those are wrong.
+  -  A common thing I'm told is that I always have a calm demeanor and am hard to read. This means I don't usually get overly excited or overly angry. I do this for many reasons, the biggest probably being that I don't want to come off as overly emotional. It doesn't mean that I don't care.
 
 **About my colleagues**
 
 - What qualities do you particularly value in your colleagues?
-Tell us what your ideal colleague would look like. These are the people you normally seek out at work.
+  - I value those that are hardworking and able to be self-starters who don't wait for instructions but strive to get things done.
+  - I value those that take initiative on their own personal growth. That includes being prepared for 1:1s and meetings, setting goals regularly, and checking in on those goals.
+  - I value those who favor working on the highest impact work to get the most results, rather than folks who just want to look busy doing meaningless activity.
+  - I value those that are honest and communicate openly. If you are having a hard time doing something, please let me know. I want to work with you to figure out how to overcome challenges.
+  
 - What do you wish colleagues didn’t do?
-Think of the people you avoid at work. What are their characteristics?
+  - Over commit to things they don't feel comfortable they will be able to achieve.
+  - Talk over others or not allow others the time to speak up.
+  - Put other people down.
+  
 - How can people earn an extra gold star with you?
-Think of the time when a colleague puts a smile on your face. What did they just do?
+  - Be empathetic.
+  - Be fearless.
+  - Be decisive.
 
 **About my interactions**
 
 - How do you coach people to do their best work and develop their talents?
-Tell us how you like to help others.
+  - Most coaching will happen in 1:1s. I expect my teammates to be self-motivated, hardworking and have autonomy. I believe we can work together best that way. If there are specific things you would like to work on, I expect you to bring those things up to me so I can do my best to work with you to find a solution.
+
 - What’s the best way to communicate with you?
-If you hate emails, tell us. If you prefer a quick zoom over a 15 min write up, tell us.
-What’s the best way to convince you to do something?
-Tell us how we can change your mind, once it’s made up.
+  - Slack will be the easiest way to get in touch with me. I might not respond immediately, but I will definitely respond within a few hours. If you have a quick question, please just ask in Slack. If there is something that requires a conversation, I am happy to jump on a quick zoom call. You can also feel free to schedule time on my calendar wherever there is availability.
+
+- What’s the best way to convince you to do something?
+  - Tell me what the results will be.
+  - Tell me the impact that it will have with our metrics.
+  - Tell me how it will impact our users.
+
 - How do you like to give feedback?
-Tell us the modes, means, timing, approach, and level of detail you like to employ when giving feedback, and why that's so.
+  - As soon as possible and as subjectively as possible. 
+  - Depending on the type of feedback, it could be a quick Slack message. If it is more sensitive feedback, it should happen over a Zoom call.
+
 - How do you like to get feedback?
-Tell us the modes, means, timing, approach, and level of detail you like to see others employ when giving you feedback, and why that's so.
+  - I value all feedback and encourage a culture of continuous feedback so that it feels more comfortable for everyone to be giving and receiving feedback.
