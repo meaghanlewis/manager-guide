@@ -6,4 +6,6 @@ As a manager, I want you to feel empowered to not just do the job today, but als
 
 ## Goals
 
-## Meetings
+## 1:1s
+
+## Other Meetings
