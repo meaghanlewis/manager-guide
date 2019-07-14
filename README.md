@@ -9,4 +9,4 @@ As a manager, I want you to feel empowered to not just do the job today, but als
 ## Resources
 - [1:1s](https://github.com/meaghanlewis/manager-guide/tree/master/1-1s)
 - [Other meetings]()
-- [Goals]()
+- [Goals](https://github.com/meaghanlewis/manager-guide/tree/master/Goals)
