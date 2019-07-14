@@ -4,7 +4,9 @@
 
 **Frequency**
 
-I prefer to have 30 minute 1:1s each week and we can decide together on a time that works best. 
+I prefer to have 30 minute 1:1s each week and we can decide together on a time that works best. Our first 1:1 together will last an hour so that we can get to know each other better. Otherwise, if 30 minutes isn't enough a particular week I'm always available for extra 1:1 time.
+
+Also, the calendar invite can be modified by either you or I at any time.
 
 **Agenda**
 
