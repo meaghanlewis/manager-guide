@@ -10,9 +10,14 @@
 ### What are your goals for the week?
 - _Tasks you've committed to working on within your team's radar or within your own project plan._
 
-### What’s one thing I could do that would help the team?
+### Any large changes, PTO or Leave coming up?
+- _Please let me know of anything I should be aware of ahead of time._
 
-### Any feedback for me?
+### What’s one thing I could do that would help the team?
+- _If there is anything that I, your manager, can be doing to better help the team right now._
+
+### Any other feedback to share?
+- _Time for us both to share any feedback about what to keep doing/stop doing/do more of/do less of._
 
 ### Notes & Action items
 - _To be filled out by your manager._
