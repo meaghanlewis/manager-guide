@@ -57,7 +57,7 @@ The goal of a human user guide is to make working together and collaboration wit
 
 - How do you like to give feedback?
   - As soon as possible and as subjectively as possible. 
-  - Depending on the type of feedback, it could be a quick Slack message. If it is more sensitive feedback, it should happen over a Zoom call.
+  - I like to provide praise in public, and criticize in private.
 
 - How do you like to get feedback?
   - I value all feedback and encourage a culture of continuous feedback so that it feels more comfortable for everyone to be giving and receiving feedback.
