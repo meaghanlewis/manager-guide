@@ -10,5 +10,5 @@ My goal as a manager is to help my teammates grow and help our project succeed. 
 
 ## Resources
 - [1:1s](https://github.com/meaghanlewis/manager-guide/tree/master/1-1s)
-- [Other meetings]()
+- [Team meetings](https://github.com/meaghanlewis/manager-guide/blob/master/Meetings/README.md)
 - [Goals](https://github.com/meaghanlewis/manager-guide/tree/master/Goals)
