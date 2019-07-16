@@ -31,7 +31,7 @@ The goal of a human user guide is to make working together and collaboration wit
 - What qualities do you particularly value in your colleagues?
   - I value those that are hardworking and are self-starters.
   - I value those that take initiative on their own personal growth. That includes being prepared for 1:1s and meetings, setting goals regularly, and checking in on those goals.
-  - I value those who favor working on the highest impact work to get the most results, rather than folks who just want to look busy doing meaningless activity.
+  - I value those who favor working on the highest impact work to get the best results, rather than folks who just want to look busy doing meaningless activity.
   - I value those that are honest and communicate openly. If you are having a hard time doing something, please let me know. I want to work with you to figure out how to overcome challenges.
   - I value shipping on time and regularly.
   
@@ -48,7 +48,8 @@ The goal of a human user guide is to make working together and collaboration wit
 **About my interactions**
 
 - How do you coach people to do their best work and develop their talents?
-  - Most coaching will happen in 1:1s. I expect my teammates to be self-motivated, hardworking and have autonomy. I believe we can work together best that way. If there are specific things you would like to work on, I expect you to bring those things up to me so I can do my best to work with you to find a solution.
+  - Coaching will happen in 1:1s. I expect my teammates to be self-motivated and autonomous. I expect them to set goals for themself and work with them to figure out how to best support them and help them grow.
+  - If there are specific things you would like to work on, I expect you to bring those things up to me so I can do my best to work with you to find a solution.
 
 - What’s the best way to communicate with you?
   - Slack will be the easiest way to get in touch with me. I might not respond immediately, but I will definitely respond within a few hours. If you have a quick question, please just ask in Slack. If there is something that requires a conversation, I am happy to jump on a quick zoom call. Also, always feel free to schedule time on my calendar wherever there is availability.
