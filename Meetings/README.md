@@ -3,10 +3,10 @@ Outside of 1:1s together, there will be other regularly scheduled meetings that 
 Once a week for 30 minutes to catch up on announcements, changes, and to have discussions.
 
 ## Sprint planning
-At the beginning of each sprint to finalize what we will work on in the next sprint.
+At the beginning of each sprint to finalize what we will work on in the next sprint. Typically lasts 30 - 60 minutes.
 
 ## Retrospectives
-Once per month to look back at how we've been performing.
+At the end of each sprint to look back at how we've been performing and what can be improved. Typically lasts 30 - 60 minutes.
 
 ## Team hangs 
-Twice a month time set aside for us to just catch up on life.
+Time set aside for us to just catch up on life and talk about things outside of work.
