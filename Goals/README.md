@@ -56,14 +56,11 @@ Since this spans a whole year, it's good to make a timeline of events to remembe
 End of year review template
 
 
-What were my key accomplishments and contributions over the last twelve months (both individually and collaboratively for my team)?
+1. What were my key accomplishments and contributions over the last twelve months (both individually and collaboratively for my team)?
 
+2. What 3-5 priorities am I going to focus on next year to make myself, the team, and org more successful?
 
-What 3-5 priorities am I going to focus on next year to make myself, the team, and org more successful?
+3. What will I do and what do I need, to keep learning and growing?
 
-
-What will I do and what do I need, to keep learning and growing?
-
-
-Describe future roles that interest you in growing your career and what actions you will take to learn more about these opportunities. (examples - areas of technology, management, new discipline, new geography, etc).
+4. Describe future roles that interest you in growing your career and what actions you will take to learn more about these opportunities. (examples - areas of technology, management, new discipline, new geography, etc).
 ```
