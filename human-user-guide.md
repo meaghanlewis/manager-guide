@@ -24,8 +24,8 @@ The goal of a human user guide is to make working together and collaboration wit
   - It's important for me to support the people around me and help them find their passion.
   
 - What are some things that people might misunderstand about you that you should clarify?
-  -  A common thing I'm told is that I always have a calm demeanor and am hard to read. This means I don't usually get overly excited or overly angry. It doesn't mean that I don't care, because I do.
-
+  -  One thing I'm told is that I always have a calm demeanor and am hard to read. This means I don't visibly get overly excited or angry, even when I am overly excited or angry. I'll still provide blunt feedback and share my thoughts, but will  stay level-headed and make logical decisions.
+  
 **About my colleagues**
 
 - What qualities do you particularly value in your colleagues?
